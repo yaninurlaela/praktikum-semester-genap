@@ -1,3 +1,4 @@
+-- Active: 1731457740007@@127.0.0.1@3306@tugas
 CREATE DATABASE praktikum2;
 USE praktikum2;
 
